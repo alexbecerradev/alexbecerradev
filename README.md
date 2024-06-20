@@ -24,8 +24,8 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 
 ## Let's Connect
 
-- 🌐 [Portfolio Website]([Your Portfolio URL](https://alexdevportfolio-mauve.vercel.app/))
-- 🐦 [Twitter]([Your Twitter URL](https://x.com/alezebecerra))
-- 📸 [Instagram]([Your Instagram URL](https://instagram.com/alezebecerra))
+- 🌐 [[Portfolio Website](https://alexdevportfolio-mauve.vercel.app/)]
+- 🐦 [[Twitter](https://x.com/alezebecerra)]
+- 📸 [[Instagram](https://instagram.com/alezebecerra)]
 
 Thank you for visiting my profile! Let's build something amazing together.
