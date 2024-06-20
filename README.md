@@ -41,9 +41,9 @@ Hello! 👋 I'm Alex, a passionate Full Stack JavaScript and Mobile Developer fr
 
 I'm always open to new opportunities and collaborations! Feel free to reach out to me via [Email] or connect with me on [LinkedIn](Your LinkedIn Profile URL).
 
-## my github stats
+## My github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alexbecerradev&show_icons=true&theme=gotham" alt="alexbecerradev" />
 
 ## Let's Connect
 
