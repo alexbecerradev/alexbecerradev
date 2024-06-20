@@ -11,6 +11,13 @@ Hello! 👋 I'm Alex, a passionate Full Stack JavaScript and Mobile Developer fr
 - **JavaScript Expertise**: Proficient in both frontend and backend JavaScript, including frameworks like React, Node.js, and Express.
 - **Mobile Development**: Skilled in developing cross-platform mobile applications using React Native, delivering seamless user experiences on both iOS and Android.
 
+## Skills and Technologies
+
+- **Frontend**: HTML, CSS, JavaScript, React, Redux, Angular
+- **Backend**: Node.js, Express, MongoDB, SQL, RESTful APIs, Java ♥
+- **Mobile**: React Native, Expo, Firebase
+- **Tools**: Git, GitHub, Docker, CI/CD pipelines, Jest, Postman
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,13 +36,6 @@ Hello! 👋 I'm Alex, a passionate Full Stack JavaScript and Mobile Developer fr
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2C3E50?style=for-the-badge&logo=CircleCI&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-
-## Skills and Technologies
-
-- **Frontend**: HTML, CSS, JavaScript, React, Redux, Angular
-- **Backend**: Node.js, Express, MongoDB, SQL, RESTful APIs, Java ♥
-- **Mobile**: React Native, Expo, Firebase
-- **Tools**: Git, GitHub, Docker, CI/CD pipelines, Jest, Mocha
 
 ## Contact Me
 
