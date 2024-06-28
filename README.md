@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! 👋 I'm Alex, a passionate Full Stack JavaScript and Mobile Developer from Argentina. With a robust background in IT since 2008, I've witnessed the evolution of technology from the analog era of the '90s to the digital age we thrive in today. As a freelancer, I bring versatile expertise and a creative mindset to every project.
+Hello! 👋 I'm Alex, a passionate Back-End Developer from Argentina. With a robust background in IT since 2008, I've witnessed the evolution of technology from the analog era of the '90s to the digital age we thrive in today. As a freelancer, I bring versatile expertise and a creative mindset to every project.
 
 ## My Journey
 
