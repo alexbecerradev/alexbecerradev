@@ -39,7 +39,7 @@ Hello! 👋 I'm Alex, a passionate Back-End Developer from Argentina. With a rob
 
 ## Contact Me
 
-I'm always open to new opportunities and collaborations! Feel free to reach out to me via [Email] or connect with me on [LinkedIn](Your LinkedIn Profile URL).
+I'm always open to new opportunities and collaborations!
 
 ## Let's Connect
 
